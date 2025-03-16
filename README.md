@@ -1,5 +1,5 @@
 ## Hi, I'm Tarun 🚀  
-💻 Full-stack developer specializing in the MERN stack exploring the intersection of web development & Generative AI <br/>  
+💻 Full-stack developer specializing in the MERN stack exploring the intersection of web development & Generative AI  
 📦 Experienced in AWS, Docker, and cloud technologies
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tarun-shukla-941054329/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agmnwosgr@gmail.com) 
